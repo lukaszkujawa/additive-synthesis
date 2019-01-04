@@ -12,3 +12,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.nav {
+    text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 1em;
+  margin: 0.2em;
+  cursor: pointer;
+  background: #EEE;
+}
+
+.button:hover {
+  background: #333;
+  color: #EEE;
+}
