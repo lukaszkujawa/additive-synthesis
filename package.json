@@ -2,7 +2,7 @@
   "name": "javascript-synth-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lukaszkujawa.github.io/additive-synthesis/build/",
+  "homepage": "https://lukaszkujawa.github.io/additive-synthesis/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
