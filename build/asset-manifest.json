@@ -1,14 +1,14 @@
 {
-  "main.css": "/additive-synthesis/static/css/main.4e86ab01.chunk.css",
-  "main.js": "/additive-synthesis/static/js/main.9f6e5474.chunk.js",
-  "main.js.map": "/additive-synthesis/static/js/main.9f6e5474.chunk.js.map",
-  "static/js/1.7c3aec79.chunk.js": "/additive-synthesis/static/js/1.7c3aec79.chunk.js",
-  "static/js/1.7c3aec79.chunk.js.map": "/additive-synthesis/static/js/1.7c3aec79.chunk.js.map",
-  "runtime~main.js": "/additive-synthesis/static/js/runtime~main.7c31e315.js",
-  "runtime~main.js.map": "/additive-synthesis/static/js/runtime~main.7c31e315.js.map",
-  "static/media/logo.svg": "/additive-synthesis/static/media/logo.5d5d9eef.svg",
-  "static/css/main.4e86ab01.chunk.css.map": "/additive-synthesis/static/css/main.4e86ab01.chunk.css.map",
-  "index.html": "/additive-synthesis/index.html",
-  "precache-manifest.f6583fedbcab4691f7bd852e75c68441.js": "/additive-synthesis/precache-manifest.f6583fedbcab4691f7bd852e75c68441.js",
-  "service-worker.js": "/additive-synthesis/service-worker.js"
+  "main.css": "/additive-synthesis/build/static/css/main.4e86ab01.chunk.css",
+  "main.js": "/additive-synthesis/build/static/js/main.c36b6332.chunk.js",
+  "main.js.map": "/additive-synthesis/build/static/js/main.c36b6332.chunk.js.map",
+  "static/js/1.7c3aec79.chunk.js": "/additive-synthesis/build/static/js/1.7c3aec79.chunk.js",
+  "static/js/1.7c3aec79.chunk.js.map": "/additive-synthesis/build/static/js/1.7c3aec79.chunk.js.map",
+  "runtime~main.js": "/additive-synthesis/build/static/js/runtime~main.363b8c71.js",
+  "runtime~main.js.map": "/additive-synthesis/build/static/js/runtime~main.363b8c71.js.map",
+  "static/media/logo.svg": "/additive-synthesis/build/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4e86ab01.chunk.css.map": "/additive-synthesis/build/static/css/main.4e86ab01.chunk.css.map",
+  "index.html": "/additive-synthesis/build/index.html",
+  "precache-manifest.3b18fde75a25b48508abdd8fcd7efed2.js": "/additive-synthesis/build/precache-manifest.3b18fde75a25b48508abdd8fcd7efed2.js",
+  "service-worker.js": "/additive-synthesis/build/service-worker.js"
 }

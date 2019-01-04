@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/additive-synthesis/precache-manifest.f6583fedbcab4691f7bd852e75c68441.js"
+  "/additive-synthesis/build/precache-manifest.3b18fde75a25b48508abdd8fcd7efed2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/additive-synthesis/index.html", {
+workbox.routing.registerNavigationRoute("/additive-synthesis/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
